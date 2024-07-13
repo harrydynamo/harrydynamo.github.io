@@ -55,6 +55,7 @@ hiredscore / </br>
 <ul>
   <li>OS: MacOS Monterey version 12.7.4</li>
   <li>> python --version <br> Python 3.10.9</li>
-  <li>> python main.py</li>
+  <li>> python main.py <br> <strong>After following these steps you can see the output in console and output/result.json file</strong></li>
+  
 </ul>
-<p>Note: After following these steps you can see the output in console and output/result.json file</p>
+<p>Note: To successfully execute the code the data directory and output directory must exist.</p>
