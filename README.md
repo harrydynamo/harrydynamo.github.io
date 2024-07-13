@@ -10,8 +10,8 @@ hiredscore / </br>
 &emsp; data / </br>
 &emsp; &emsp; - data.json </br>
 &emsp; output / </br>
-&emsp; &emsp; - result.json </br> </br>
-&emsp; - README.md </br>
+&emsp; &emsp; - result.json </br>
+&emsp; - README.md </br> </br>
 
 <p><strong>Implementation Details</strong></p>
 <ul>
